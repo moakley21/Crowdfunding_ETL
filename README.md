@@ -17,9 +17,9 @@ Located in '/Resources' folder files:
 
 ### Files Generated
 Output in to '/Resources' directory
-* campaign.csv,
-* category.csv,
-* contacts.csv,
+* campaign.csv
+* category.csv
+* contacts.csv
 * subcategory.csv
 
 ### SQL Server
