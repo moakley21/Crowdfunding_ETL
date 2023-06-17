@@ -1,5 +1,5 @@
 # Crowdfunding_ETL
----
+
 
 ### Project 2 Group Members
 * Mary Oakley
@@ -27,3 +27,5 @@ Output in to '/Resources' directory
 * Postgres server was created on a Mac, and ran into several security/permission errors when importing files with COPY FROM
 * Table imports work fine when using client side psql \copy or from pgAdmin UI
 * Ultimatly copied csv files into postgres's 'Data' directory to utilize server side queries
+
+---
